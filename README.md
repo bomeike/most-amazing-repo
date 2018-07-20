@@ -1,2 +1,1 @@
-# most-amazing-repo
-This will be a terrific project
+# This all we’ve got
